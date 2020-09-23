@@ -1,0 +1,13 @@
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.csprojAssemblyReference.cache
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.AssemblyInfoInputs.cache
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.AssemblyInfo.cs
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.csproj.CoreCompileInputs.cache
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.exe
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.deps.json
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.runtimeconfig.json
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.runtimeconfig.dev.json
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.dll
+C:\Mimmit\DotNet\Arvauspeli\bin\Debug\netcoreapp3.1\Arvauspeli.pdb
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.dll
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.pdb
+C:\Mimmit\DotNet\Arvauspeli\obj\Debug\netcoreapp3.1\Arvauspeli.genruntimeconfig.cache
