@@ -11,7 +11,7 @@ namespace Arvauspeli
 
             int luku=rnd.Next(1, 21);
 
-            
+            Console.Write("Tervetuloa pelaamaan arvaa numero-peliä.");
             
 
             while(true){
@@ -21,6 +21,7 @@ namespace Arvauspeli
 
                     if(syote==luku){
                         Console.Write("Onneksi olkoon! Oikein arvattu!");
+                        Console.Write("Peli on päättynyt. Näkemiin.");
                         break;
                     }
                     if(syote<luku){
